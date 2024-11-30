@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(9, 48, 48);
+}
+.container{
+    background-color: rgb(131, 236, 207);
+}
+h2{
+    color:  rgb(9, 48, 48);
+    text-decoration: underline;
+}
